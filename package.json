@@ -1,7 +1,7 @@
 {
   "name": "clickygame",
   "version": "1.0.0",
-  "description": "",
+  "homepage": "https://reneerenarde.github.io/clickygame/",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -21,7 +21,6 @@
   "bugs": {
     "url": "https://github.com/ReneeRenarde/clickygame/issues"
   },
-  "homepage": "https://reneerenarde.github.io/clickygame/",
   "dependencies": {
     "gh-pages": "^3.1.0",
     "react": "^16.13.1",
