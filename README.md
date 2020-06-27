@@ -1,5 +1,5 @@
 # Wine Grape Clicky Game
-
+Play the live game [here](https://reneerenarde.github.io/clickygame/) 
 ![Wine Game Home Screen](home.PNG)
 
 The application renders different images to the screen. Each image listens for click events.
