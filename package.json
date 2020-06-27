@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/ReneeRenarde/clickygame/issues"
   },
-  "homepage": "https://github.com/ReneeRenarde/clickygame#readme",
+  "homepage": "https://reneerenarde.github.io/clickygame/",
   "dependencies": {
     "gh-pages": "^3.1.0",
     "scripts": "^0.1.0"
