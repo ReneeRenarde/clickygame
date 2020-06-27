@@ -1,5 +1,7 @@
 # Wine Grape Clicky Game
 
+![Wine Game Home Screen](home.PNG)
+
 The application renders different images to the screen. Each image listens for click events.
 
 The application keeps track of the user's score. The user's score is incremented when clicking an image for the first time. The user's score resets to 0 if they click the same image more than once. Try to get all 12!
